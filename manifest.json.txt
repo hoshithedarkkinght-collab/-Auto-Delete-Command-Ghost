@@ -1,7 +1,0 @@
-{
-  "name": "Command Ghost",
-  "description": "Auto-deletes your bot commands and the bot's replies after a timer.",
-  "author": [{"Hoshi"}],
-  "main": "index.js",
-  "vendetta": { "icon": "ic_message_delete" }
-}
