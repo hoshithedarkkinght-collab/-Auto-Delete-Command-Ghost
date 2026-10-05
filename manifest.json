@@ -1,0 +1,15 @@
+{
+  "format": 1,
+  "id": "hoshi.command-ghost",
+  "name": "Command Ghost",
+  "description": "Auto-deletes your bot commands (!, ?, etc.) and the bot's replies after a timer.",
+  "author": "hoshithedarkkinght",
+  "version": "1.0.0",
+  "dependencies": {
+    "revenge.api": { "version": ">=1" },
+    "discord": { "version": "*" }
+  },
+  "dist": {
+    "script": "index.ts"
+  }
+}
